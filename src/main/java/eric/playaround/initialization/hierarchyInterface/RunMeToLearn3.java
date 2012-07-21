@@ -1,4 +1,4 @@
-package eric.playaround.initialization;
+package eric.playaround.initialization.hierarchyInterface;
 
 public class RunMeToLearn3 {
     public static void main(String[] args) {

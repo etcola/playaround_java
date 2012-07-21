@@ -1,4 +1,4 @@
-package eric.playaround.initialization;
+package eric.playaround.initialization.hierarchyClass;
 
 public class Parent {
     static int staticConstantInParent = 10;

@@ -1,6 +1,6 @@
-package eric.playaround.initialization;
+package eric.playaround.initialization.hierarchyClass;
 
-public class Child extends Parent{
+public class Child extends Parent {
     static int staticConstantInChild = 5;
     static {System.out.println("Child is initialized");}
 }

@@ -1,4 +1,4 @@
-package eric.playaround.initialization;
+package eric.playaround.initialization.hierarchyInterface;
 
 public interface SuperInterface {
     int constantFromSuperInterface = 1;
