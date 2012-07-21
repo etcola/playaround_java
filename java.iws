@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1c85d69-9ec1-4a59-bd61-c2f1c99a4321" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/MiddleInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/RunMeToLearn3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/SubInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/SuperInterface.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java.iws" afterPath="$PROJECT_DIR$/java.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/Child.java" afterPath="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/Child.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/RunMeToLearn1.java" afterPath="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/RunMeToLearn1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/RunMeToLearn2.java" afterPath="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/RunMeToLearn2.java" />
     </list>
     <ignored path="java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -228,6 +229,42 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="SuperInterface.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eric/playaround/initialization/SuperInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="29" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MiddleInterface.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eric/playaround/initialization/MiddleInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="7" selection-start="223" selection-end="223" vertical-scroll-proportion="0.15">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubInterface.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eric/playaround/initialization/SubInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="103" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunMeToLearn3.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eric/playaround/initialization/RunMeToLearn3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="0" selection-start="825" selection-end="825" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="RunMeToLearn2.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/eric/playaround/initialization/RunMeToLearn2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -237,10 +274,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RunMeToLearn1.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="RunMeToLearn1.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/eric/playaround/initialization/RunMeToLearn1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="86" selection-start="201" selection-end="201" vertical-scroll-proportion="0.1421801">
+            <state line="4" column="86" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -282,6 +319,10 @@
         <option value="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/RunMeToLearn.java" />
         <option value="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/RunMeToLearn2.java" />
         <option value="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/RunMeToLearn1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/SubInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/RunMeToLearn3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/SuperInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eric/playaround/initialization/MiddleInterface.java" />
       </list>
     </option>
   </component>
@@ -471,8 +512,11 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="eric.playaround.initialization" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="eric.playaround.initialization" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.RunMeToLearn1">
+  <component name="RunManager" selected="Application.RunMeToLearn3">
     <configuration default="false" name="RunMeToLearn2" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="eric.playaround.initialization.RunMeToLearn2" />
       <option name="VM_PARAMETERS" />
@@ -502,6 +546,28 @@
       <module name="java" />
       <envs />
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RunMeToLearn3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="eric.playaround.initialization.RunMeToLearn3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -579,9 +645,10 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.RunMeToLearn2" />
       <item index="1" class="java.lang.String" itemvalue="Application.RunMeToLearn1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RunMeToLearn3" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -654,7 +721,7 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39910313" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -801,6 +868,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eric/playaround/initialization/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="40" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/eric/playaround/initialization/Parent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="4" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
@@ -808,9 +882,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/eric/playaround/initialization/Child.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/eric/playaround/initialization/SubInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="40" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
+        <state line="3" column="103" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -824,7 +898,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/eric/playaround/initialization/RunMeToLearn1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="86" selection-start="201" selection-end="201" vertical-scroll-proportion="0.1421801">
+        <state line="4" column="86" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eric/playaround/initialization/RunMeToLearn3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="825" selection-end="825" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eric/playaround/initialization/SuperInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="29" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eric/playaround/initialization/MiddleInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="223" selection-end="223" vertical-scroll-proportion="0.15">
           <folding />
         </state>
       </provider>
