@@ -11,5 +11,9 @@ public class Parent {
         x = 1;
         y = 1;
         System.out.println("Now x and y are signed to: " + x + ", " + y);
+        printOutInstanceVariable();
+    }
+    void printOutInstanceVariable() {
+        System.out.println("Method in Parent is called. Yet it won't be called since it's Child's constructor's scope.");
     }
 }
